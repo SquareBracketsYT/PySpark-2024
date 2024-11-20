@@ -24,6 +24,6 @@ def fetch_comments(api_key, video_id):
 
 # VIDEO_URL = "https://www.youtube.com/watch?v=4gulVzzh82g"
 
-# API_KEY = "AIzaSyBMYZRIVOvvrjKKIY64bDT3sgMxw15Xqvc"
+# API_KEY = "xxxxxxxxxxxxxxxxxxxxx"
 # VIDEO_ID = "4gulVzzh82g"
 # comments = fetch_comments(API_KEY, VIDEO_ID)
