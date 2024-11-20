@@ -15,7 +15,7 @@ def home():
 
 @app.route("/data")
 def data():
-    API_KEY = "AIzaSyBMYZRIVOvvrjKKIY64bDT3sgMxw15Xqvc"
+    API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     VIDEO_ID = "4gulVzzh82g"
 
     comment_thread = Thread(target=start_streaming, args=(API_KEY, VIDEO_ID))
